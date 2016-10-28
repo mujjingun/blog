@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Korean computer science enthusiast.
+A Korean computer science enthusiast.
 
 ### Contact me
 
