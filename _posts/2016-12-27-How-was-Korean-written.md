@@ -10,7 +10,7 @@ As you all might know, *Hangul* or the Korean alphabet was a great invention by 
 This was the most common way, if it's even considered a way to write Korean. Classical Chinese(한문 in Korean, 文言文 in Chinese) was like the Latin of East Asia. Every diplomatic documents were written in it, and it was the practical *and* proper way to write *anything*, even after the advent of Hangul. 
 
 Classical Chinese looks like this:
-  > 日本國王源義持, 遣使獻象。 象, 我國未嘗有也。 命司僕養之, 日費豆四五斗。
+  > 日本國王源義持, 遣使獻象。 象, 我國未嘗有也。 命司僕養之, 日費豆四五斗。<br>
   > *The Japanese King offered elephants, which is nonexistent in Korea. They were ordered to be kept in *Saboksi*.*
 
 There's also a [Classical Chinese Wikipedia](https://zh-classical.wikipedia.org), check it out if you're interested.
@@ -36,9 +36,11 @@ Wait, how do you express markers if Classical Chinese didn't have any? You used 
   >  蠶**段**陽物**是乎等用良**水氣**乙**厭却桑葉**叱分**喫破**爲遣**飲水**不冬**
 
 An example of an *idu* sentence from 1415. The bold letters are the markers(토). This is read as:
+
   >  잠**딴** 양물**이온들쓰아** 수기**를** 염각, 상엽**뿐** 끽파**하고** 음수**안들**
 
 In Modern Korean, this is:
+
   >  누에는 양물으로서 물기를 싫어해 뽕잎만 먹고 물은 아니 마신다. --*Silkworms like dryness; they avoid moistness, and they only eat mulberry leaves, and does not drink water.*
 
 However, there are several problems with this method *idu*. First, you can't know for sure if each character is read with their meaning or sound, hence confusion arises. And second, it's still 95% Chinese, however deformed it is. In other words, it couldn't fully express the Korean language.
@@ -61,22 +63,16 @@ Doesn't this look familiar? It's very similar to Katakana in Japanese. In fact, 
 
 Lastly, *hyangchal*(鄕札, lit. writing of the homeland) was the only system that could fully express the Korean language, in the sense that it doesn't have to incorporate any Chinese vocabulary in the text. It uses the *chaja* method exclusively, every character is a transliteration. *Hyangchal* was used mainly for recording Korean folk songs and poetry. Poetry recorded in *hyangchal* was called *hyangga*(鄕歌, lit. songs of the homeland). The most famous one is the 서동요. It goes like this:
 
-> 善化公主**主隱**
-
-> **他密**只**嫁良置古**
-
-> **薯**童房**乙**
-
+> 善化公主**主隱**<br>
+> **他密**只**嫁良置古**<br>
+> **薯**童房**乙**<br>
 > **夜矣**夘乙**抱遣去如**
 
 The bold parts are read by *meaning*, and the rest is read by *sound*. In Hangul, this would be:
 
-> 선화공쥬니ᄆᆞᆫ
-
-> ᄂᆞᆷ그ᅀᅳ지얼어두고
-
-> 맛둥바ᄋᆞᆯ
-
+> 선화공쥬니ᄆᆞᆫ <br>
+> ᄂᆞᆷ그ᅀᅳ지얼어두고 <br>
+> 맛둥바ᄋᆞᆯ <br>
 > 바ᄆᆡ몰안고가다
 
 As you can see, there's no Chinese vocabulary in the text except 公主(princess). But also this makes reading extremely difficult, since there is no hint whatsoever if a character is read in sound or meaning. Also if it's read in meaning, we can't know for sure what word was used, and how. This makes several different interpretations possible for a single piece.
