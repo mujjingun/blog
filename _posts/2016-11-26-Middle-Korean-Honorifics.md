@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Middle Korean Honorifics
+draft: true
 ---
 
 Hi, I'm going to talk about Middle Korean, specifically about the honorific system of Middle Korean in this post. But before anything else: what is Middle Korean?
