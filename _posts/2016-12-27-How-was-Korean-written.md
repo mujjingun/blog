@@ -10,6 +10,7 @@ As you all might know, *Hangul* or the Korean alphabet was a great invention by 
 This was the most common way, if it's even considered a way to write Korean. Classical Chinese(한문 in Korean, 文言文 in Chinese) was like the Latin of East Asia. Every diplomatic documents were written in it, and it was the practical *and* proper way to write *anything*, even after the advent of Hangul. 
 
 Classical Chinese looks like this:
+
   > 日本國王源義持, 遣使獻象。 象, 我國未嘗有也。 命司僕養之, 日費豆四五斗。<br>
   > *The Japanese King offered elephants, which is nonexistent in Korea. They were ordered to be kept in *Saboksi*.*
 
