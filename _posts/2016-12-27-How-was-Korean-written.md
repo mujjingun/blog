@@ -3,8 +3,6 @@ layout: post
 title: How was Korean written before the advent of Hangul?
 ---
 
-# How was Korean written before the advent of Hangul?
-
 As you all might know, *Hangul* or the Korean alphabet was a great invention by King Sejong, announced in 1446 by the book Hunminjeongeum--*Correct sounds for the instruction of the people*. It was an alphabet designed for the Korean people, for the Korean Language. But there's a common misconception that the Korean language was not written down, or not even spoken before 1446. In fact, ways to write Korean did exist, by incorporating Chinese characters. But Chinese characters have a problem: it was designed for the Chinese Language, for the Chinese people. In other words, Chinese characters is not an alphabet, it is an ideographic script, and each character has both a *sound* and a *meaning*. How the heck do you express Korean using Chinese characters? It's not like expressing English with Latin letters. That's why there's no one way to do it, instead several ways existed, differing by usage and period. So let's take a look at them.
 
 ## 1. Translated into Classical Chinese
@@ -54,24 +52,31 @@ However, there are several problems with this method *idu*. First, you can't kno
 3. It's mainly used to make easy *reading* classical Classical Chinese texts, not writing them.
 
 These are the characters used in Gugyeol:
+
 ![Gugyeol](https://upload.wikimedia.org/wikipedia/commons/2/2f/%E5%8F%A3%E8%A8%A3.gif)
 
-Doesn't this look familiar? Yes, it's very similar to Katakana in Japanese. In fact, this was also pretty much how Japanese writing came to be. Japan had a lot of influence from Korea during the Three Kingdoms period, which is when this form of writing developed in Korea. It's likely that Japanese writing was influenced by Gugyeol.
+Doesn't this look familiar? It's very similar to Katakana in Japanese. In fact, this was also pretty much how Japanese writing came to be. Japan had a lot of influence from Korea during the Three Kingdoms period, which is when this form of writing developed in Korea. It's likely that Japanese writing was influenced by Gugyeol.
 
 ## 5. Hyangchal
 
 Lastly, *hyangchal*(鄕札, lit. writing of the homeland) was the only system that could fully express the Korean language, in the sense that it doesn't have to incorporate any Chinese vocabulary in the text. It uses the *chaja* method exclusively, every character is a transliteration. *Hyangchal* was used mainly for recording Korean folk songs and poetry. Poetry recorded in *hyangchal* was called *hyangga*(鄕歌, lit. songs of the homeland). The most famous one is the 서동요. It goes like this:
 
 > 善化公主**主隱**
+
 > **他密**只**嫁良置古**
+
 > **薯**童房**乙**
+
 > **夜矣**夘乙**抱遣去如**
 
 The bold parts are read by *meaning*, and the rest is read by *sound*. In Hangul, this would be:
 
 > 선화공쥬니ᄆᆞᆫ
+
 > ᄂᆞᆷ그ᅀᅳ지얼어두고
+
 > 맛둥바ᄋᆞᆯ
+
 > 바ᄆᆡ몰안고가다
 
 As you can see, there's no Chinese vocabulary in the text except 公主(princess). But also this makes reading extremely difficult, since there is no hint whatsoever if a character is read in sound or meaning. Also if it's read in meaning, we can't know for sure what word was used, and how. This makes several different interpretations possible for a single piece.
