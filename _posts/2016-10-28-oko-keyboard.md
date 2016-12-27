@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Announcing Online Old Hangul IME!
+title: Announcing Online Old Hangul Keyboard!
 ---
 
 [Here is the link](https://mujjingun.github.io/oko.html)
