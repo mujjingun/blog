@@ -12,7 +12,7 @@ This was the most common way, if it's even considered a way to write Korean. Cla
 Classical Chinese looks like this:
 
   > 日本國王源義持, 遣使獻象。 象, 我國未嘗有也。 命司僕養之, 日費豆四五斗。<br>
-  > *The Japanese King offered elephants, which are nonexistent in Korea. They were ordered to be kept in Saboksi.*
+  > *The Japanese King Minamoto Yoshimochi sent an envoy and offered elephants. Elephants are traditionally nonexistent in our country. They were ordered to be kept in Saboksi, and they consumed four to five sacks of beans daily.*
 
 There's also a [Classical Chinese Wikipedia](https://zh-classical.wikipedia.org), check it out if you're interested.
 
