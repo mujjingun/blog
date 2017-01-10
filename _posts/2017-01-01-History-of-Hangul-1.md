@@ -1,6 +1,6 @@
 ---
 layout: post
-title: History of Hangul, Part 1: Middle Korean
+title: History of Hangul, Part 1 Middle Korean
 draft: true
 ---
 
