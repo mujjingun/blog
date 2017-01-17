@@ -137,6 +137,6 @@ Nouns and noun-likes can be every sentence component, with the corresponding cas
 > 그저께에 길을 가다가 이상한 사람을 보았다. (O) <br>
 > 그저께 길 가다가 이상한 사람 보았다. (O)
 
-Verbs and adjectives can be every part-of-speech, by taking the right verb endings. Verb endings shouldn't be dropped, dropping them normally leads the sentence grammatically incorrect.
+Verbs and adjectives can act as every part-of-speech, by taking the right verb endings. Verb endings shouldn't be dropped, dropping them normally leads the sentence grammatically incorrect.
 
 > \*그저께 길 가 이상하 사람 보. (X)
