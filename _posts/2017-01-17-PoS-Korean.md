@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Korean Part-of-speech System
-draft: true
 ---
 
 I always get confused when explaining Korean grammar concepts in English terms. I thought I'd organize them here and refer to it whenever I get confused again.
