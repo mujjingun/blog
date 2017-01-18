@@ -126,7 +126,7 @@ Verb endings never get attached to 새. Therefore, 새 never changes its form. I
 </tr>
 <tr>
 	<td>독립어 Interjection component</td>
-	<td>야/이야, 여/이여</td>
+	<td>아/, 여/이여</td>
 </tr>
 </table>
 
