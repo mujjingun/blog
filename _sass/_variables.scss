@@ -14,7 +14,7 @@ $lightGray: #eee;
 $white: #fff;
 
 // Font stacks
-$nanumgothic: 'NanumBarunGothic YetHangul', 'Adamina', sans-serif;
+$nanumgothic: 'NanumBarunGothic YetHangul', 'CharisSILW', sans-serif;
 $helvetica: Helvetica, Arial, sans-serif;
 $helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
 $georgia: Georgia, serif;
@@ -35,12 +35,31 @@ $georgia: Georgia, serif;
   unicode-range: U+AC00-D7A3, U+1100-11F9, U+302E-302F, U+3131-318E;
 }
 
-/* latin */
+/* use Charis SIL - Regular in .woff format */
 @font-face {
-  font-family: 'Adamina';
-  font-style: normal;
-  font-weight: 400;
-  src: local('Adamina'), local('Adamina-Regular'), url(https://fonts.gstatic.com/s/adamina/v8/JAttAW9Rn8cZSbOU_aVAEQ.woff2) format('woff2');
-  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
+    font-family: CharisSILW;
+    src: url('/blog/CharisSIL-R.woff');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
+}
+/* use Charis SIL - Italic in .woff format */
+@font-face {
+    font-family: CharisSILW;
+    font-style: italic;
+    src: url('/blog/CharisSIL-I.woff');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
 }
 
+@font-face {
+    font-family: CharisSILW;
+    font-weight: bold;
+    src: url('/blog/CharisSIL-B.woff');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
+}
+
+@font-face {
+    font-family: CharisSILW;
+    font-weight: bold;
+    font-style: italic;
+    src: url('/blog/CharisSIL-BI.woff');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
+}
