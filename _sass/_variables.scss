@@ -14,7 +14,7 @@ $lightGray: #eee;
 $white: #fff;
 
 // Font stacks
-$nanumgothic: 'NanumBarunGothic YetHangul', 'Lora', sans-serif;
+$nanumgothic: 'NanumBarunGothic YetHangul', 'Adamina', sans-serif;
 $helvetica: Helvetica, Arial, sans-serif;
 $helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
 $georgia: Georgia, serif;
@@ -35,19 +35,12 @@ $georgia: Georgia, serif;
   unicode-range: U+AC00-D7A3, U+1100-11F9, U+302E-302F, U+3131-318E;
 }
 
-/* latin-ext */
-@font-face {
-  font-family: 'Lora';
-  font-style: normal;
-  font-weight: 400;
-  src: local('Lora Regular'), local('Lora-Regular'), url(https://fonts.gstatic.com/s/lora/v10/I0dEfRgGNE90_hXZq7bjyw.woff2) format('woff2');
-  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
-}
 /* latin */
 @font-face {
-  font-family: 'Lora';
+  font-family: 'Adamina';
   font-style: normal;
   font-weight: 400;
-  src: local('Lora Regular'), local('Lora-Regular'), url(https://fonts.gstatic.com/s/lora/v10/4vqKRIwnQQGUQQh-PnvdMA.woff2) format('woff2');
+  src: local('Adamina'), local('Adamina-Regular'), url(https://fonts.gstatic.com/s/adamina/v8/JAttAW9Rn8cZSbOU_aVAEQ.woff2) format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
 }
+
